@@ -1,0 +1,4 @@
+id,name,city,tariff,basePrice,peakPrice
+S1,Central Plaza,Vienna,FLAT,0.45,
+S2,Riverside Park & Charge,Graz,TIME_OF_USE,0.35,0.59
+S3,Highway Rest A2,Wiener Neustadt,FLAT,0.59,

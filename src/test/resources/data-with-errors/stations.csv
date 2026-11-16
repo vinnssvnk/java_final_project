@@ -1,0 +1,3 @@
+id,name,city,tariff,basePrice,peakPrice
+S1,Test Station,Vienna,FLAT,0.40,
+S2,Broken,Vienna,NIGHT_RATE,0.40,

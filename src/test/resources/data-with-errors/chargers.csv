@@ -1,0 +1,4 @@
+id,stationId,type,connector,maxPowerKw
+C1,S1,AC,TYPE2,22
+C2,S9,DC,CCS2,150
+C3,S1,DC,CCS2,abc

@@ -1,0 +1,9 @@
+id,model,batteryKwh,maxAcKw,maxDcKw,connectors
+V1,Tesla Model 3 Long Range,75,11,250,TYPE2|CCS2
+V2,VW ID.3 Pro,58,11,120,TYPE2|CCS2
+V3,Hyundai Ioniq 5,77.4,11,220,TYPE2|CCS2
+V4,Renault Zoe R110,52,22,0,TYPE2
+V5,Nissan Leaf 24,24,3.6,50,CHADEMO
+V6,Kia e-Niro,64,11,77,TYPE2|CCS2
+V7,Skoda Enyaq 80,77,11,135,TYPE2|CCS2
+V8,Fiat 500e,42,11,85,TYPE2|CCS2

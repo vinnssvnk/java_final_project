@@ -1,0 +1,3 @@
+id,model,batteryKwh,maxAcKw,maxDcKw,connectors
+V1,Test Car,50,11,100,TYPE2|CCS2
+V2,Bad Plug,50,11,100,TYPE2|SCHUKO
